@@ -1,1 +1,3 @@
-# App8
+Triangle Constructor
+
+Yesterday, I saw an Instagram reel of someone building this kind of program. I thought it didn´t look too difficult, so I gave it a chance. After 4 hours of programming I finally finished. Tha Basic code was easy, that took me max. 1.5 hours, but the rest is a different story. The main obstacle for me was the part when it had to check if the input was an integer. I was totally lost, but I looked it up and stumbled across a StackOverflow forum about this theme. There I learned about library <sstream>, which I at the end used. I must say, that I still do not fully understand what really happens there, but at the end, I got everything working somehow, and the project was finished. This is Day 42 of Learning C++ from LearnCPP. I´m currently ending chapter , and finally going to learn about OOP.
